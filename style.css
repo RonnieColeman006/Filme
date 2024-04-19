@@ -1,0 +1,78 @@
+
+li {
+    list-style-type: none;
+  }
+body{
+    font-size: larger;
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgb(6, 6, 61) 35%, rgb(12, 2, 43) 100%);
+   color: rgb(165,25,25);
+   margin: 0;
+   padding: 0;
+}
+
+header{
+    padding:20px 100px;
+    background-color: black;
+    padding-top: 5px;
+    display: flex;
+    gap: 40px;
+    align-items: center;
+    justify-content: space-between;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.esquerda{
+    width: 50vw;
+    padding: 100px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    display: flex;
+    gap: 40px;  
+}
+.esquerda p{
+    padding-top: 100px;
+}
+
+header a{
+    color:   rgb(165,25,25);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.texto h2{
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.foto1 {
+    padding-left: 7%;
+    padding-top: 10%;
+    display: flex;
+    gap: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.foto1 p{
+    padding-top: 90px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+.foto2 {
+    padding-left: 7%;
+    padding-top: 10%;
+    display: flex;
+    gap: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.foto2 p{
+    padding-top: 90px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   
+}
+.texto2{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    padding-top: 100px;
+}
+.elenco{
+     padding-left: 43%;
+}
+.elenco li{
+    text-align: center;
+    padding-right: 590px;
+    font-size: smaller;
+}
