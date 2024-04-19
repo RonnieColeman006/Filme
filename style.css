@@ -76,3 +76,9 @@ header a{
     padding-right: 590px;
     font-size: smaller;
 }
+footer{
+    background-color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 7px;
+    padding-bottom: 10px;
+}
